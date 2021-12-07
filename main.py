@@ -1,6 +1,6 @@
 def my_superfunction():
     print('What an awesome print!')
-    print('we in demo_branch')
+
 
 
 def main():
@@ -8,6 +8,7 @@ def main():
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
+    print('we in new_branch')
     my_superfunction()
 
 
